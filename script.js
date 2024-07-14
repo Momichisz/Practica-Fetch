@@ -18,8 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
                               </div>
                               <div class="data">
                                   <span class="prod-name">${producto.title}</span>
-                                  <span class="prod-precio"> $${producto.price}</span>
-                                  <a href="${producto.permalink}" target="_blank">Ver Producto</a>
+                                  <span class="prod-price"> $${producto.price}</span>
                               </div>
                           </div>
                       `;
